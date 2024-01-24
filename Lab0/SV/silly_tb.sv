@@ -5,6 +5,7 @@ module tb ();
    logic 	b;
    logic 	c;
    logic 	y;
+   logic    sum;
    logic        clk;   
    
   // instantiate device under test

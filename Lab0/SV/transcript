@@ -13,17 +13,17 @@
 # //
 # do silly.do
 # Model Technology ModelSim SE-64 vlog 2021.3 Compiler 2021.07 Jul 13 2021
-# Start time: 16:19:58 on Jan 24,2024
+# Start time: 16:39:27 on Jan 24,2024
 # vlog -reportprogress 300 silly.sv silly_tb.sv 
 # -- Compiling module silly
 # -- Compiling module tb
 # 
 # Top level modules:
 # 	tb
-# End time: 16:19:58 on Jan 24,2024, Elapsed time: 0:00:00
+# End time: 16:39:27 on Jan 24,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vsim -voptargs="+acc" work.tb 
-# Start time: 16:19:58 on Jan 24,2024
+# Start time: 16:39:27 on Jan 24,2024
 # ** Note: (vsim-3812) Design is being optimized...
 # Loading sv_std.std
 # Loading work.tb(fast)
