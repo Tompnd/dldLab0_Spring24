@@ -1,7 +1,8 @@
 m255
 K4
 z2
-!s99 nomlopt
+Z0 !s99 nomlopt
+R0
 !s11f vlog 2021.3 2021.07, Jul 13 2021
 13
 !s112 1.1
@@ -9,62 +10,73 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dC:/Users/tpars/OneDrive/Documents/GitHub/dldLab0_Spring24/Lab0/SV
+Z1 dC:/Users/tpars/OneDrive/Documents/GitHub/dldLab0_Spring24/Lab0/SV
 T_opt
 !s110 1706135968
 V2?gn19P[`Poz4K?<@601;2
-04 2 4 work tb fast 0
+Z2 04 2 4 work tb fast 0
 =1-00410e58fc0b-65b191a0-1d0-7540
-!s124 OEM100
-o-quiet -auto_acc_if_foreign -work work +acc
-Z1 tCvgOpt 0
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
 n@_opt
-OL;O;2021.3;73
+Z6 OL;O;2021.3;73
+R1
+T_opt1
+!s110 1706735865
+V`If5PiLCAS4;o[VG[mm?o3
+R2
+=1-00410e58fc0b-65bab8f8-3c4-7730
+R3
+R4
+R5
+n@_opt1
+R6
 vsilly
-Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
-Z3 !s110 1706135967
+Z7 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z8 !s110 1706735864
 !i10b 1
 !s100 _2dz@JJAZh;^6?zOn28Ug0
 IhiRhnZXC1`_UDW57PEGmF0
 S1
-R0
+R1
 w1706134657
 8silly.sv
 Fsilly.sv
 !i122 0
 L0 1 6
-Z4 VDg1SIo80bB@j0V0VzS_@n1
-Z5 OL;L;2021.3;73
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.3;73
 r1
 !s85 0
 31
-Z6 !s108 1706135967.000000
-Z7 !s107 silly_tb.sv|silly.sv|
-Z8 !s90 -reportprogress|300|silly.sv|silly_tb.sv|
+Z11 !s108 1706735863.000000
+Z12 !s107 silly_tb.sv|silly.sv|
+Z13 !s90 -reportprogress|300|silly.sv|silly_tb.sv|
 !i113 0
-Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-R1
+Z14 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
 vtb
-R2
-R3
+R7
+R8
 !i10b 1
 !s100 mS7Z16QJV76J?X?9@LaK21
 I:AKkk_EV6bckXK>82zfib1
 S1
-R0
+R1
 w1706135485
 8silly_tb.sv
 Fsilly_tb.sv
 !i122 0
 L0 2 71
-R4
-R5
+R9
+R10
 r1
 !s85 0
 31
-R6
-R7
-R8
+R11
+R12
+R13
 !i113 0
-R9
-R1
+R14
+R5
